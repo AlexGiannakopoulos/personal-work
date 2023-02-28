@@ -1,0 +1,15 @@
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\bin\Debug\net6.0\Exercise3OOP.exe
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\bin\Debug\net6.0\Exercise3OOP.deps.json
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\bin\Debug\net6.0\Exercise3OOP.runtimeconfig.json
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\bin\Debug\net6.0\Exercise3OOP.dll
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\bin\Debug\net6.0\Exercise3OOP.pdb
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.csproj.AssemblyReference.cache
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.AssemblyInfoInputs.cache
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.AssemblyInfo.cs
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.csproj.CoreCompileInputs.cache
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.dll
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\refint\Exercise3OOP.dll
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.pdb
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\Exercise3OOP.genruntimeconfig.cache
+C:\Users\alexa\RiderProjects\Exercise1OOP\Exercise3OOP\obj\Debug\net6.0\ref\Exercise3OOP.dll
