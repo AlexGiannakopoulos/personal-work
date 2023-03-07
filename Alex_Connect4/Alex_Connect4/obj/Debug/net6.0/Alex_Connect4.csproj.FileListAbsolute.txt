@@ -1,0 +1,15 @@
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.csproj.AssemblyReference.cache
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.AssemblyInfoInputs.cache
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.AssemblyInfo.cs
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.csproj.CoreCompileInputs.cache
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\bin\Debug\net6.0\Alex_Connect4.exe
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\bin\Debug\net6.0\Alex_Connect4.deps.json
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\bin\Debug\net6.0\Alex_Connect4.runtimeconfig.json
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\bin\Debug\net6.0\Alex_Connect4.dll
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\bin\Debug\net6.0\Alex_Connect4.pdb
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.dll
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\refint\Alex_Connect4.dll
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.pdb
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\Alex_Connect4.genruntimeconfig.cache
+C:\Users\alexa\RiderProjects\Alex_Connect4\Alex_Connect4\obj\Debug\net6.0\ref\Alex_Connect4.dll
